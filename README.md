@@ -25,5 +25,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![Containerization](https://img.shields.io/badge/Containerization-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)  ![Model Deployment](https://img.shields.io/badge/Model%20Deployment-0052CC?style=for-the-badge&logo=mlops&logoColor=white)  
 
 ---
-
- From [vnbl](https://github.com/vnbl)
