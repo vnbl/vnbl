@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Fernanda Carles
 
-⭐️ Mozilla Awardee - Open-Source AI for Environmental Justice ⭐️
+⭐️ Mozilla Awardee - Open-Source AI for Environmental Justice  
 🌱 I’m currently exploring **AI Agents**  
 💻 I love working on **ML projects, from concept to product**  
 📫 How to reach me: [fernanda.carles@gmail.com] | [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/fernanda-carles-galeano-a4031989/?locale=en_US))  
@@ -13,8 +13,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  ![Optuna](https://img.shields.io/badge/Optuna-003B57?style=for-the-badge&logo=optuna&logoColor=white)  ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)  
 
 ### 🏗️ Data Engineering & Infrastructure  
-![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  ![Spark](https://img.shields.io/badge/Apache%20Spark-F77F00?style=for-the-badge&logo=apachespark&logoColor=white)  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  ![Spark](https://img.shields.io/badge/Apache%20Spark-F77F00?style=for-the-badge&logo=apachespark&logoColor=white)  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
 ### 🖥️ Software Development  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)  
