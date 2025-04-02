@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 I'm Fernanda Carlés
+### I'm a Data Scientist and Engineer from Paraguay, and the creator of proyectorespira.net
+
+### Also, I'm a Mozilla Foundation Awardee, open source collaborator and enthusiast, Project Manager, Maker and Educator
 
 <!--
 **vnbl/vnbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
