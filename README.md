@@ -3,7 +3,7 @@
 ⭐️ Mozilla Awardee - Open-Source AI for Environmental Justice  
 🌱 I’m currently exploring **AI Agents**  
 💻 I love working on **ML projects, from concept to product**  
-📫 How to reach me: [fernanda.carles@gmail.com] | [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/fernanda-carles-galeano-a4031989/?locale=en_US))  
+📫 How to reach me: fernanda.carles (at) gmail.com | [LinkedIn](https://www.linkedin.com/in/fernanda-carles-galeano-a4031989/?locale=en_US)  
 
 ## 🚀 Tech Stack
 ### 🖥️ Programming & Frameworks  
