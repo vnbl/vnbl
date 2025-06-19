@@ -5,6 +5,8 @@
 💻 I love working on **ML projects, from concept to product**  
 📫 How to reach me: fernanda.carles (at) gmail.com | [LinkedIn](https://www.linkedin.com/in/fernanda-carles-galeano-a4031989/?locale=en_US)  
 
+![Score](https://github-readme-stats.vercel.app/api?username=vnbl)
+
 ## 🚀 Tech Stack
 ### 🖥️ Programming & Frameworks  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)   ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)  ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)  
